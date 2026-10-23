@@ -1,6 +1,6 @@
 <!--
 author:  Sabbir
-email:   a.rifat@st.ovgu.de
+email:   a.e.m.sabbirrifat@gmail.com
 version: 1.0.0
 language: en
 narrator: US English Female

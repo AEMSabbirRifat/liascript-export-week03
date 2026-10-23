@@ -1,19 +1,27 @@
 {
-  "name": "liascript-automation-week03",
+  "name": "week03-research-design-sampling",
   "version": "1.0.0",
-  "description": "Automated Liascript PDF generation for week03_.md",
-  "main": "index.js",
+  "private": true,
+  "description": "QuRM Week 03 lesson with automated PDF/SCORM export",
   "scripts": {
     "generate-pdf": "node scripts/generate-pdf.js"
   },
+  "liascript": {
+    "lesson": "week03_.md",
+    "slug": "week03-research-design-sampling",
+    "organization": "Otto von Guericke University Magdeburg"
+  },
   "keywords": [
     "liascript",
+    "open-educational-resources",
+    "scorm",
+    "pdf",
     "automation",
-    "pdf"
+    "github-actions"
   ],
-  "author": "Your Name/Organization",
+  "author": "A E M Sabbir Rifat <a.e.m.sabbirrifat@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "puppeteer": "^22.0.0"
+  "devDependencies": {
+    "@liascript/exporter": "3.4.2--2.1.0"
   }
 }
