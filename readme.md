@@ -1,7 +1,7 @@
 # One-Click Course Export: LiaScript → PDF + SCORM (Week 03 lesson)
 
-[![LiaScript Export](https://github.com/AEMSabbirRifat/automation-test-2/actions/workflows/main.yml/badge.svg)](https://github.com/AEMSabbirRifat/automation-test-2/actions/workflows/main.yml)
-[![Open the course](https://img.shields.io/badge/Open_the_course-LiaScript-0A66C2)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AEMSabbirRifat/automation-test-2/main/week03_.md)
+[![LiaScript Export](https://github.com/AEMSabbirRifat/liascript-export-week03/actions/workflows/main.yml/badge.svg)](https://github.com/AEMSabbirRifat/liascript-export-week03/actions/workflows/main.yml)
+[![Open the course](https://img.shields.io/badge/Open_the_course-LiaScript-0A66C2)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AEMSabbirRifat/liascript-export-week03/main/week03_.md)
 
 **From one Markdown file to a printable handout and a Moodle-ready package, with no copy-pasting.**
 
@@ -21,7 +21,7 @@ Both are attached to a versioned **GitHub Release**.
 - probability vs. non-probability sampling, sample size and representativeness
 - two interactive tasks: *Identify the research design* and a *Sampling procedures quiz*
 
-→ [**Open it interactively**](https://liascript.github.io/course/?https://raw.githubusercontent.com/AEMSabbirRifat/automation-test-2/main/week03_.md)
+→ [**Open it interactively**](https://liascript.github.io/course/?https://raw.githubusercontent.com/AEMSabbirRifat/liascript-export-week03/main/week03_.md)
 
 ## ⚙️ How it works
 
@@ -43,7 +43,7 @@ The pipeline now uses the official LiaScript exporter, so the PDF shows the rend
 
 `GitHub Actions` · `Automation` · `Docs-as-code` · `SCORM / LMS integration` · `Research design & sampling`
 
-> See also: [automation-test-1](https://github.com/AEMSabbirRifat/automation-test-1) (Week 02 lesson, full pipeline write-up) · [QuRM-WiSe2024-25](https://github.com/AEMSabbirRifat/QuRM-WiSe2024-25) (all course lessons)
+> See also: [liascript-export-week02](https://github.com/AEMSabbirRifat/liascript-export-week02) (Week 02 lesson, full pipeline write-up) · [QuRM-WiSe2024-25](https://github.com/AEMSabbirRifat/QuRM-WiSe2024-25) (all course lessons)
 
 ---
 
